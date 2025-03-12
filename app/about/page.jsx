@@ -12,8 +12,7 @@ export default function Home() {
 
 
       <Carousel2 />
-      <About2 />
-      <Vid /> 
+      <About2 /> 
       <Footer />
 
 

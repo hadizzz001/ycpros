@@ -9,7 +9,9 @@ const services = [
   { title: "Deck Installation", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741348475/lrwpyeuzlwtygtpjl0np.jpg" },
   { title: "Decorative Stones", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741348579/sagmnhxdhencftwf7dtp.jpg" },
   { title: "Concrete Slabs Installation", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741348469/vuppm5czw4qisxvmfzkk.jpg" },
-  { title: "Retaining Walls Installation", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741347277/uykxcbe2uki1ukevprh9.jpg" },
+  { title: "Retaining Walls Installation", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741779350/ltzzklims7cumjvmqivw.jpg" },
+  { title: "Weed Control", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741778889/p5ipfxgsufkigtt8h91b.jpg" },
+  { title: "Exposed Concrete Cleaner and Sealer", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741779486/dfpppeekefjnc0xwqeq7.jpg" },
 ];
 
 const fadeIn = {

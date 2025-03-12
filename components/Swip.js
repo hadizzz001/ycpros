@@ -11,14 +11,14 @@ const services = [
     description: "Expert installation of durable and stylish concrete slabs.",
     images: [
       "https://res.cloudinary.com/db87pggzn/image/upload/v1741348469/vuppm5czw4qisxvmfzkk.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741374726/t4obnspy8geekmy2chpd.jpg",
     ],
   },
   {
     title: "Deck Installation",
     description: "Custom deck installation to enhance your outdoor living space.",
     images: [
-      "https://res.cloudinary.com/db87pggzn/image/upload/v1741374726/xejuwmjyq9pvctzkacog.jpg",
-      "https://res.cloudinary.com/db87pggzn/image/upload/v1741374726/t4obnspy8geekmy2chpd.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741374726/xejuwmjyq9pvctzkacog.jpg", 
       "https://res.cloudinary.com/db87pggzn/image/upload/v1741374726/ivq3caartskdftcbgkij.jpg",
       "https://res.cloudinary.com/db87pggzn/image/upload/v1741374726/sf7nkjnekedc1wpsy468.jpg",
     ],
@@ -53,6 +53,38 @@ const services = [
       "https://res.cloudinary.com/db87pggzn/image/upload/v1741375055/k6nhajcbn2qnzf88sioi.jpg",
       "https://res.cloudinary.com/db87pggzn/image/upload/v1741375055/w2pjxpav0tfmiqdnlx3i.jpg",
       "https://res.cloudinary.com/db87pggzn/image/upload/v1741375054/q0856me7fnqtth8a71tl.jpg",
+    ],
+  },
+  {
+    title: "Retaining Walls Installation",
+    description: "Prevent erosion and create level areas in landscapes.",
+    images: [
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741779353/gvnk6mzcetaolddzwoe3.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741779352/xhyoocudglqymubqgzon.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741779352/n2vfkh1sweg9o0v45xdb.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741779352/ojlswe8hutkzuq3xlebf.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741779350/ltzzklims7cumjvmqivw.jpg",
+    ],
+  },
+  {
+    title: "Weed Control",
+    description: "Involves managing unwanted plants to prevent them from competing with crops.",
+    images: [
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741778889/p5ipfxgsufkigtt8h91b.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741778885/vchki7lwgrllsayc6lyl.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741778885/utkl6usvr5tx26xt04k5.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741778884/cwvtnzjxqmhxbv3langj.jpg",
+    ],
+  },
+  {
+    title: "Exposed Concrete Cleaner and Sealer",
+    description: "Help remove stains, dirt, and grime while protecting the surface from moisture, wear, and discoloration.",
+    images: [
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741779486/dfpppeekefjnc0xwqeq7.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741779486/z6tmjdfjfew1sbbrszrt.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741779486/ijvciuhb6htjpfkeh6uy.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741779486/fewm50olqz2znvwqv0gq.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1741779486/xmaistu9udwihrfhp8e7.jpg",
     ],
   },
 ];
