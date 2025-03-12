@@ -3,6 +3,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import Header from '../components/header';
 import Logo from '../components/Logo';
+import AnnouncementPopup from '../components/AnnouncementPopup';
 
 
  
@@ -37,6 +38,7 @@ export default function RootLayout({
 
     
       <body >
+      <AnnouncementPopup />
         <Logo />
         <Header />
         {children}
