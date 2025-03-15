@@ -4,14 +4,17 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 
 const services = [
-  { title: "Sod Installation", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741348644/eojcukhy94ito7pfztnj.jpg" },
-  { title: "Fencing", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741348607/ovb8ggmc6alkikfovhsb.jpg" },
   { title: "Deck Installation", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741348475/lrwpyeuzlwtygtpjl0np.jpg" },
+  { title: "Sod Installation", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741348644/eojcukhy94ito7pfztnj.jpg" },
+  { title: "Flower Beds Installation", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1742073627/jmg5ntxig1kr7lvmffbu.jpg" },
+  
+  { title: "Fencing", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741348607/ovb8ggmc6alkikfovhsb.jpg" },
   { title: "Decorative Stones", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741348579/sagmnhxdhencftwf7dtp.jpg" },
-  { title: "Concrete Slabs Installation", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741348469/vuppm5czw4qisxvmfzkk.jpg" },
+  { title: "Exposed Concrete Cleaner and Sealer", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741779486/dfpppeekefjnc0xwqeq7.jpg" },
+  
+  { title: "Step Stones", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741348469/vuppm5czw4qisxvmfzkk.jpg" },
   { title: "Retaining Walls Installation", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741779350/ltzzklims7cumjvmqivw.jpg" },
   { title: "Weed Control", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741778889/p5ipfxgsufkigtt8h91b.jpg" },
-  { title: "Exposed Concrete Cleaner and Sealer", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741779486/dfpppeekefjnc0xwqeq7.jpg" },
 ];
 
 const fadeIn = {

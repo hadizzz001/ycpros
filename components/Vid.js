@@ -55,7 +55,8 @@ const VideoGrid = () => {
               className="w-full h-full object-cover"
               controls
               autoPlay
-              muted
+              playsinline 
+              muted 
             />
           </div>
         ))}
