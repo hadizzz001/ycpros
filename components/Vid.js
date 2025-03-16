@@ -20,27 +20,7 @@ const videos = [
   {
     url: "https://res.cloudinary.com/db87pggzn/video/upload/v1741375842/fc9ewsvkqpkacvbehcgl.mp4",
     title: "Video 5",
-  },
-  {
-    url: "https://res.cloudinary.com/db87pggzn/video/upload/v1741780652/uiphmuq7kodcbvwbdxat.mp4",
-    title: "Video 6",
-  },
-  {
-    url: "https://res.cloudinary.com/db87pggzn/video/upload/v1741780622/dr2hwgqsjguj7b1fet9l.mp4",
-    title: "Video 7",
-  },
-  {
-    url: "https://res.cloudinary.com/db87pggzn/video/upload/v1741780574/ncr7sxyea3gh64hyddqa.mp4",
-    title: "Video 8",
-  },
-  {
-    url: "https://res.cloudinary.com/db87pggzn/video/upload/v1741780569/tqrevqeu6t9mbggnzlh9.mp4",
-    title: "Video 9",
-  },
-  {
-    url: "https://res.cloudinary.com/db87pggzn/video/upload/v1741780531/uytaj7rckgzgsimkcobn.mp4",
-    title: "Video 10",
-  },
+  },  
 ];
 
 const VideoGrid = () => {

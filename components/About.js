@@ -31,7 +31,7 @@ const About = () => {
         className="md:w-1/2"
       >
         <video autoPlay loop muted className="w-full h-auto">
-          <source src="https://res.cloudinary.com/db87pggzn/video/upload/v1741354013/rkezpjnjogii6oxx7e0r.mp4" type="video/mp4" />
+          <source src="https://res.cloudinary.com/db87pggzn/video/upload/v1741375856/o7mku9bampoumsps1e6b.mp4" type="video/mp4" />
         </video>
          
       </motion.div>

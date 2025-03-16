@@ -42,6 +42,9 @@ const services = [
       "https://res.cloudinary.com/db87pggzn/image/upload/v1741374975/kuarzsgudy081juwkquy.jpg",
       "https://res.cloudinary.com/db87pggzn/image/upload/v1741374976/gjqxbikdsfrfqgbuxx1e.jpg",
       "https://res.cloudinary.com/db87pggzn/image/upload/v1741374976/zoaacznzmkxqknqz4pv0.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1742115273/jlvpoumzjoic7coumss7.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1742115271/wp2jciohpgf5acuk7yxg.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1742115271/kyjg0esfmltetmzlrzst.jpg",
     ],
   },
   {
