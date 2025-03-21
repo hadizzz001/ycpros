@@ -32,10 +32,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
       	<link property="stylesheet" rel='stylesheet' id='greenthumb-font-Shabrina-css'
 		href='wp-content/themes/greenthumb/css/font-face/Shabrina/stylesheet.css@ver=6.7.1.css' type='text/css'
 		media='all' />
-
+</head>
     
       <body >
       <AnnouncementPopup />
