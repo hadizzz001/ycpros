@@ -15,6 +15,7 @@ const services = [
   { title: "Step Stones", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741348469/vuppm5czw4qisxvmfzkk.jpg" },
   { title: "Retaining Walls Installation", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741779350/ltzzklims7cumjvmqivw.jpg" },
   { title: "Weed Control", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1741778889/p5ipfxgsufkigtt8h91b.jpg" },
+  { title: "Expert Mulch Installation", img: "https://res.cloudinary.com/db87pggzn/image/upload/v1742586973/xfhcllbggqniina5oluy.jpg" },
 ];
 
 const fadeIn = {

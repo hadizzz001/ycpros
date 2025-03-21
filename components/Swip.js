@@ -105,6 +105,17 @@ const services = [
       "https://res.cloudinary.com/db87pggzn/image/upload/v1741778884/cwvtnzjxqmhxbv3langj.jpg",
     ],
   },
+  {
+    title: "Expert Mulch Installation",
+    description: "Ensures proper layering and coverage to enhance soil health, moisture retention, and landscape aesthetics.",
+    images: [
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1742586973/xfhcllbggqniina5oluy.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1742586973/ahipumsurqq06tqeteyt.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1742586973/bbxlxjmypzr4q2uvwxxj.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1742586973/aoc7b8aac0oxkwwh4xaf.jpg",
+      "https://res.cloudinary.com/db87pggzn/image/upload/v1742586973/xrhmoyljbkbj7xrozmhq.jpg",
+    ],
+  },
 
 
 ];
