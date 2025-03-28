@@ -4,6 +4,7 @@ import "./globals.css";
 import Header from '../components/header';
 import Logo from '../components/Logo';
 import AnnouncementPopup from '../components/AnnouncementPopup';
+import { GoogleAnalytics } from '@next/third-parties/google'
 
 
  
@@ -42,6 +43,7 @@ export default function RootLayout({
       <AnnouncementPopup />
         <Logo />
         <Header />
+        <GoogleAnalytics gaId="G-F22Y2VNP0V" />
         {children}
       </body>
     </html>
